@@ -9,7 +9,7 @@ public class DBUtil {
     //private static final String DATABASE_DRIVER = "com.mysql.cj.jdbc.Driver";
     private static final String DATABASE_URL = "jdbc:mysql://localhost:3306/petistaan_jdbc";
     private static final String DATABASE_USERNAME = "root";
-    private static final String DATABASE_PASSWORD = "@Haji_123";
+    private static final String DATABASE_PASSWORD = "-";
 
    /* static {
         try {
